@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLFireBaseTest</string>
+    <string name="change_image">change</string>
+    <string name="title_activity_client_maps">Map</string>
+</resources>
