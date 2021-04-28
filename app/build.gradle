@@ -41,6 +41,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.google.mlkit:image-labeling-custom:16.2.1'
     implementation 'com.google.mlkit:image-labeling:17.0.0'
+    implementation 'com.google.firebase:firebase-ml-vision:'
+    implementation 'com.google.firebase:firebase-ml-vision-image-label-model:20.0.1'
 
 
     def camerax_version = "1.0.0-beta07"
